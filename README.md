@@ -1,4 +1,4 @@
-### Ola, eu me chamo Ian!
+### Hi, my name is Ian!
 
 
 - 🌱 I’m currently learning SQL, JAVA and RUBY
