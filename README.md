@@ -35,6 +35,7 @@ Estou aprendendo desenvolvimento back-end com foco nas linguagens JAVA e PYTHON 
 📫 Como entrar em contato comigo - 
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+
 ianoliveira.tec@gmail.com
 
 
