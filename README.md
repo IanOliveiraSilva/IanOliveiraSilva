@@ -25,7 +25,7 @@ Estou aprendendo desenvolvimento back-end com foco nas linguagens JAVA e PYTHON 
 
 
 
-## Outras seções comuns em perfis do GitHub
+## Sobre mim
 👩‍💻 Estudo atualmente Sistemas para Internet na Universidade UNIPÊ
 
 🧠 Estou aprendendo desenvolvimento Back-End
