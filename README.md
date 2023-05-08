@@ -41,5 +41,3 @@ ianoliveira.tec@gmail.com
 
 
 ![Ian GitHub stats](https://github-readme-stats.vercel.app/api?username=IanOliveiraSilva&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanOliveiraSilva&layout=compact)](https://github.com/IanoliveiraSilva/github-readme-stats)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IanOliveiraSilva)](https://github.com/IanOliveiraSilva/github-readme-stats)
