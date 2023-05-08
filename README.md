@@ -40,6 +40,4 @@ ianoliveira.tec@gmail.com
 
 
 
-![Ian GitHub stats](https://github-readme-stats.vercel.app/api?username=IanOliveiraSilva&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanOliveiraSilva&layout=compact)](https://github.com/IanoliveiraSilva/github-readme-stats)
+![Ian GitHub stats](https://github-readme-stats.vercel.app/api?username=IanOliveiraSilva&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanOliveiraSilva&layout=compact)](https://github.com/IanoliveiraSilva/github-readme-stats)
