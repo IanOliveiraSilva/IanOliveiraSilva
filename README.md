@@ -32,6 +32,18 @@ Estou aprendendo desenvolvimento back-end com foco nas linguagens JAVA e PYTHON 
 
 👯‍♀️ Procuro colaborar em ajuda com duvidas
 
+## Projetos
+
+![Movie Searcher](https://ianoliveirasilva.github.io/MovieSearcher/) 
+
+![Word Counter](https://ianoliveirasilva.github.io/WordCounter/) 
+
+![To do list](https://ianoliveirasilva.github.io/To-do-list/) 
+
+![Fitness Calculator](https://ianoliveirasilva.github.io/CalculadoraFitness/) 
+
+
+
 📫 Como entrar em contato comigo - 
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
