@@ -15,7 +15,7 @@ Estou aprendendo desenvolvimento back-end com foco nas linguagens JAVA e PYTHON 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![Javascript](https://img.shields.io/badge/javascript-%23092E20.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![NodeJs](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
