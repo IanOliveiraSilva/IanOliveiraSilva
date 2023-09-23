@@ -34,14 +34,15 @@ Estou aprendendo desenvolvimento back-end com foco nas linguagens JAVA e PYTHON 
 
 ## Projetos
 
-[Movie Searcher](https://ianoliveirasilva.github.io/MovieSearcher/) 
+[Buscador de Filmes](https://ianoliveirasilva.github.io/MovieSearcher/) 
 
-[Word Counter](https://ianoliveirasilva.github.io/WordCounter/) 
+[Contador de Palavras](https://ianoliveirasilva.github.io/WordCounter/) 
 
 [To do list](https://ianoliveirasilva.github.io/To-do-list/) 
 
 [Fitness Calculator](https://ianoliveirasilva.github.io/CalculadoraFitness/) 
 
+[Gerador de Senhas](https://ianoliveirasilva.github.io/Gerador-de-senhas/)  
 
 
 📫 Como entrar em contato comigo - 
