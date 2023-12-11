@@ -44,6 +44,12 @@ Estou aprendendo desenvolvimento back-end com foco nas linguagens JAVA e PYTHON 
 
 [Gerador de Senhas](https://ianoliveirasilva.github.io/Gerador-de-senhas/)  
 
+[Sorteador de Númers](https://ianoliveirasilva.github.io/sorteador-numeros/)
+
+[Critix](https://critix-402174fcc250.herokuapp.com/)
+
+[Gamefy](https://gamefy-2bcfa4d89481.herokuapp.com/)
+
 ## Contato
 
 📫 Como entrar em contato comigo - 
