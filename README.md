@@ -2,7 +2,7 @@
 
 
 ## 🚀 Sobre mim
-Estou aprendendo desenvolvimento back-end com foco nas linguagens JAVA e PYTHON e estudando sobre criação e uso de API-REST
+Estou aprendendo desenvolvimento back-end com foco nas linguagens Javascript e PYTHON e estudando sobre criação e uso de API-REST
 
 
 ## 🔗 Links
@@ -11,8 +11,6 @@ Estou aprendendo desenvolvimento back-end com foco nas linguagens JAVA e PYTHON 
 
 
 ## 🛠 Habilidades
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-%23092E20.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
@@ -21,16 +19,12 @@ Estou aprendendo desenvolvimento back-end com foco nas linguagens JAVA e PYTHON 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
+Sobre Mim
+👩‍💻 Sou formado em Sistemas para Internet pela Universidade UNIPÊ.
 
+🧠 Atualmente, estou aprimorando minhas habilidades em desenvolvimento Back-End.
 
-
-
-## Sobre mim
-👩‍💻 Estudo atualmente Sistemas para Internet na Universidade UNIPÊ
-
-🧠 Estou aprendendo desenvolvimento Back-End
-
-👯‍♀️ Procuro colaborar em ajuda com duvidas
+👯‍♀️ Estou disponível para colaborar e ajudar com dúvidas.
 
 ## Projetos
 
