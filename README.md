@@ -39,7 +39,7 @@ Sobre Mim
 
 [Gerador de Senhas](https://ianoliveirasilva.github.io/Gerador-de-senhas/)  
 
-[Sorteador de Númers](https://ianoliveirasilva.github.io/sorteador-numeros/)
+[Sorteador de Números](https://ianoliveirasilva.github.io/sorteador-numeros/)
 
 [Critix](https://critix-402174fcc250.herokuapp.com/)
 
