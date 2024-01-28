@@ -45,7 +45,7 @@ Sobre Mim
 
 [Gamefy](https://gamefy-2bcfa4d89481.herokuapp.com/)
 
-[Contador de Gastos](https://github.com/IanOliveiraSilva/Contador-de-Gastos)
+[Contador de Gastos](https://ianoliveirasilva.github.io/Contador-de-Gastos/)
 
 ## Contato
 
