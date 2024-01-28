@@ -1,4 +1,4 @@
-# Olá, eu sou o Ian! 👋
+# Olá, me chamo Ian! 👋
 
 
 ## 🚀 Sobre mim
@@ -54,7 +54,5 @@ Sobre Mim
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 
 ianoliveira.tec@gmail.com
-
-
 
 ![Ian GitHub stats](https://github-readme-stats.vercel.app/api?username=IanOliveiraSilva&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanOliveiraSilva&layout=compact)](https://github.com/IanoliveiraSilva/github-readme-stats)
