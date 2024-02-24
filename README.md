@@ -47,6 +47,8 @@ Sobre Mim
 
 [Contador de Gastos](https://ianoliveirasilva.github.io/Contador-de-Gastos/)
 
+[Last.FM Dashboard](https://lastfm-dashbord.onrender.com/)
+
 ## Contato
 
 📫 Como entrar em contato comigo - 
