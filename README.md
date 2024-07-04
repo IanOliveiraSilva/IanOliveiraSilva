@@ -41,13 +41,8 @@ Sobre Mim
 
 [Sorteador de Números](https://ianoliveirasilva.github.io/sorteador-numeros/)
 
-[Critix](https://critix-402174fcc250.herokuapp.com/)
-
-[Gamefy](https://gamefy-2bcfa4d89481.herokuapp.com/)
-
 [Contador de Gastos](https://ianoliveirasilva.github.io/Contador-de-Gastos/)
 
-[Last.FM Dashboard](https://lastfm-dashbord.onrender.com/)
 
 ## Contato
 
